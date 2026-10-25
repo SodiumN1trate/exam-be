@@ -1,5 +1,5 @@
 # Renars Gausins
-
+This project was developed as part of a time-limited practical programming exam (approximately 3 hours).
 ## Setup
 Install packages
 ```shell
